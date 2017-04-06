@@ -14,3 +14,6 @@ The aim of this project is to compress a file using Huffman coding.
 **Priority Queues:**
 - Huffman Trees can be created with any of the three priority queues in the code viz Pairing Heap, 4-way cache optimized heap and Binary Heap
 - The code contains implementations of the three heaps
+
+Todo:
+Remove bugs from pairing heap
